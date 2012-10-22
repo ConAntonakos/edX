@@ -85,7 +85,7 @@ def getAvailableLetters(lettersGuessed):
       yet been guessed.
     '''
     # FILL IN YOUR CODE HERE...
-        lettersGuessedString = "".join(lettersGuessed)
+    lettersGuessedString = "".join(lettersGuessed)
     remaining = "".join(c for c in string.ascii_lowercase if c not in lettersGuessedString)
     return remaining
 
