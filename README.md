@@ -1,4 +1,4 @@
-My work done from following edX courses:
+My work done in following edX courses:
 
 - MIT 6.00x
 
